@@ -1,2 +1,3 @@
 # vigilant-guacamole
-my first repository
+my first repo.
+Thanks for stopping by. 
